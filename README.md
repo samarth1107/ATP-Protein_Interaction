@@ -5,7 +5,9 @@ In this assignment to get input feature, protein sequence is divided into array 
 for eg in sequence VNIKTNPfkaVSFVESAIKKALDNAGYL
 arrays are:-
 XXXXXXXXVNIKTNPf
+
 XXXXXXXVNIKTNPfk
+
 XXXXXXVNIKTNPfka
 :
 :
