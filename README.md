@@ -3,15 +3,14 @@ In this ATP binding protein data is used to get ATP bind residue
 
 In this assignment to get input feature, protein sequence is divided into array of size 17 
 for eg in sequence VNIKTNPfkaVSFVESAIKKALDNAGYL
-arrays are:-
-XXXXXXXXVNIKTNPf
+arrays are:-  
+XXXXXXXXVNIKTNPf  
+XXXXXXXVNIKTNPfk  
+XXXXXXVNIKTNPfka  
+:     
+:     
+similarly others  
 
-XXXXXXXVNIKTNPfk
-
-XXXXXXVNIKTNPfka
-:
-:
-similarly others 
 in which middle element or 8th was target ie label for for middle element was taken.
 In this X is placeholder or dummy amino acid to complete our 17 array length.
 
